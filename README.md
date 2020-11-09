@@ -7,7 +7,7 @@ Kelas : TI.20.B.1<br>
 # Tugas Pertemuan 7 - Latihan 1
 Untuk pertemuan ke 7 ini saya diberikan tugas oleh dosen saya yaitu diantaranya:
 
-![tugas_latihan1.PNG](Pic/tugas_latihan1.PNG)
+![lat-1.PNG](Pic/lat-1.PNG)
 
 Pada tugas pertama, saya diminta untuk membuat sebuah program pengulangan bertingkat yang nantinya akan menghasilkan output seperti gambat diatas.
 Untuk bisa dapat menghasilkan output tersebut maka saya memasukan syntax:
